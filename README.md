@@ -2,4 +2,4 @@
 
 ## Editing The file
 
-It is a markdown fine in the reository
+It is a markdown file in the repository
